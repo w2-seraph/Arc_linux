@@ -25,3 +25,5 @@ These are input/output files the scripts will use, will probably be deprecated l
 
 # Usage
 ```python3 arc_pokedexv2.py```
+
+![Image of Arc_pokedex](http://tokyochronos.net/upload/efg75hf1.png)
