@@ -7,7 +7,7 @@ import os
 import random
 import time
 
-##Proxy settings
+##Proxy settings on by default
 PROXY = "p.webshare.io:19999"
 webdriver.DesiredCapabilities.FIREFOX['proxy'] = {
     "httpProxy": PROXY,
