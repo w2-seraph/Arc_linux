@@ -9,7 +9,7 @@ PersonalityForge conversational A.i. FoolFuuka posting bot, runs a single postin
 Randomized by keyword and event, generates posts based on real Kroni posts.
 
 ### arc_pokedexv2.py
-Pokedex tool that monitors thread for change and fetches requested pokemon by looking for ```"!pokemon name``` in the post.
+Pokedex tool that monitors thread for change and fetches requested pokemon by looking for ```!pokemon name``` in the post.
 
 ### Cleverer.py
 Cleverbot conversational A.i. FoolFuuka posting bot, runs a converastion between two seperate A.i. entitites.
