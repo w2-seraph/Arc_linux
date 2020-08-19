@@ -12,7 +12,7 @@ Randomized by keyword and event, generates posts based on real Kroni posts.
 Pokedex tool that monitors thread for change and fetches requested pokemon by looking for ```!pokemon name``` in the post.
 
 ### Cleverer.py
-Cleverbot conversational A.i. FoolFuuka posting bot, runs a converastion between two seperate A.i. entitites.
+Cleverbot conversational A.i. FoolFuuka posting bot, runs a converastion between two seperate A.i. entities.
 
 ### executor.py
 FoolFuuka "stressing" tool, uses multithreading and proxies to create mass requests.
