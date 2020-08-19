@@ -2,26 +2,26 @@
 
 #### Cleverer and Hartjen use API keys, also proxy functionality is enabled by default in almost all scripts.
 
-#### Hartjen.py
+### Hartjen.py
 PersonalityForge conversational A.i. FoolFuuka posting bot, runs a single posting entity.
 
-#### QuickBrownFox.py
-Randomized by keyword and event, generated post based on real Kroni posts.
+### QuickBrownFox.py
+Randomized by keyword and event, generates posts based on real Kroni posts.
 
-#### arc_pokedexv2.py
+### arc_pokedexv2.py
 Pokedex tool that monitors thread for change and fetches requested pokemon by looking for ```"!pokemon name``` in the post.
 
-#### Cleverer.py
+### Cleverer.py
 Cleverbot conversational A.i. FoolFuuka posting bot, runs a converastion between two seperate A.i. entitites.
 
-#### executor.py
+### executor.py
 FoolFuuka "stressing" tool, uses multithreading and proxies to create mass requests.
 
-#### mormarkov.py
+### mormarkov.py
 Originally a markov chain processor for Mordin posts, currently retreives random Mordin lines and posts them.
 
-#### .json and .txt files
+### .json and .txt files
 These are input/output files the scripts will use, will probably be deprecated later on.
 
-##Usage
+#Usage
 ```python3 arc_pokedex.py```
