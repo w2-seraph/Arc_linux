@@ -1,4 +1,4 @@
-## Arc 0.2 FoolFuuka A.i. entities & scripts
+# Arc 0.2 FoolFuuka A.i. entities & scripts
 
 #### Cleverer and Hartjen use API keys, also proxy functionality is enabled by default in almost all scripts.
 
@@ -23,5 +23,5 @@ Originally a markov chain processor for Mordin posts, currently retreives random
 ### .json and .txt files
 These are input/output files the scripts will use, will probably be deprecated later on.
 
-#Usage
+# Usage
 ```python3 arc_pokedex.py```
