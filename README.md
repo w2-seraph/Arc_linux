@@ -24,4 +24,4 @@ Originally a markov chain processor for Mordin posts, currently retreives random
 These are input/output files the scripts will use, will probably be deprecated later on.
 
 # Usage
-```python3 arc_pokedex.py```
+```python3 arc_pokedexv2.py```
