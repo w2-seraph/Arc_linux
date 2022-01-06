@@ -18,7 +18,7 @@ Cleverbot conversational A.i. FoolFuuka posting bot, runs a converastion between
 FoolFuuka "stressing" tool, uses multithreading and proxies to create mass requests.
 
 ### mormarkov.py
-Originally a markov chain processor for Mordin posts, currently retreives random Mordin lines and posts them.
+Originally a markov chain processor for post content, currently retreives random Mordin lines and posts them.
 
 ### .json and .txt files
 These are input/output files the scripts will use, will probably be deprecated later on.
