@@ -3,7 +3,7 @@ import os
 import random
 
 from cleverwrap import CleverWrap
-cw = CleverWrap("CC94d2gPFLp4Ikg1gt3NGsIsJFQ")
+cw = CleverWrap("")
 conv = cw.new_conversation()
 
 
